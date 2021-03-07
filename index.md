@@ -1,9 +1,8 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
-    <title>site</title>
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>site</title>
     <meta name="generator" content="Jekyll v3.9.0" />
     <meta property="og:title" content="site" />
 <meta property="og:locale" content="en_US" />
