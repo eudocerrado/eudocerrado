@@ -32,7 +32,7 @@
 
     <section class="main-content">
       <head>
-  <link rel="stylesheet" type="text/css" href="styles.css" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <p>Olá</p>
