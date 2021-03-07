@@ -22,15 +22,7 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">Em construção</h1>
-      <h2 class="project-tagline"></h2>
-      <a href="https://github.com/eudocerrado/site" class="btn">View on GitHub</a>
-      
-      
- 
-
-<p>Olá</p>
+  </body>
 
 
       <footer class="site-footer">
@@ -42,5 +34,5 @@
     </section>
 
     
-  </body>
+ 
 </html>
