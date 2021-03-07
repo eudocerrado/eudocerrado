@@ -23,8 +23,8 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">site</h1>
-      <h2 class="project-tagline"></h2>
+      <h1 class="project-name">Página em construção</h1>
+      <h2 class="project-tagline">@eudocerrado</h2>
       
         <a href="https://github.com/eudocerrado/site" class="btn">View on GitHub</a>
       
