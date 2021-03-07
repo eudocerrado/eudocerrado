@@ -12,7 +12,7 @@
       <meta name="twitter:card" content="summary" />
       <meta property="twitter:title" content="site" />
       <script type="application/ld+json"> 
-        {"url":"https://eudocerrado.github.io/site/","@type":"WebSite","headline":"site","name":"site","@context":"https://schema.org"}
+        {"url":"https://eudocerrado.github.io/site/","@type":"WebSite","headline":"site","name":"Test","@context":"https://schema.org"}
       </script>
     <!-- End Jekyll SEO tag -->
 
