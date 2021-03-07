@@ -16,11 +16,8 @@
       </script>
     <!-- End Jekyll SEO tag -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="/site/assets/css/style.css?v=ad1b467e87a15a96172a3f2e0b00ff4e4772f565"> -->
-    
-    <link rel="stylesheet" type="text/css" href="style.css" />
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   
   <body>
