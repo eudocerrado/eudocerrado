@@ -1,12 +1,3 @@
-.page-header {
-    color: #fff;
-    text-align: center;
-    /* background-color: #159957; */
-    background-image: linear-gradient(
-120deg
-, #ffca03, #b90bce);
-}
-
 body {
     padding: 0;
     margin: 0;
@@ -15,4 +6,16 @@ body {
     line-height: 1.5;
     color: #000000;
     background: #000000b8;
-    }
+}
+
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    /* background-color: #159957; */
+    background-image: linear-gradient(
+120deg
+, #ffca03, #b90bce);
+
+
+}
