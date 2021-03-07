@@ -26,7 +26,7 @@
 
 
   <footer class="site-footer">
-    <span class="site-footer-owner"><a href="https://github.com/eudocerrado/site">site</a> is maintained by <a href="https://github.com/eudocerrado">eudocerrado</a>.</span>
+    <span class="site-footer-owner"><a href="https://github.com/eudocerrado/site">site</a></span>
    
   </footer>
     
