@@ -2,9 +2,9 @@
   <head>
     <meta charset="UTF-8">
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-      <title>site</title>
+      <title>Em construção</title>
       <meta name="generator" content="Jekyll v3.9.0" />
-      <meta property="og:title" content="Em construção" />
+      <meta property="og:title" content="site" />
       <meta property="og:locale" content="en_US" />
       <link rel="canonical" href="https://eudocerrado.github.io/site/" />
       <meta property="og:url" content="https://eudocerrado.github.io/site/" />
