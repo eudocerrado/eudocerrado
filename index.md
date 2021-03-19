@@ -22,23 +22,23 @@
    
  </head>
   
-  <body>  
+ <body>  
   
   
-    <div class="card" style="width: 18rem;">
-       <div class="card-body">
-         <h5 class="card-title"></h5>
-           <p class="card-text">Instagram pessoal.</p>
-              <a href="https://www.instagram.com/eudocerrado/" class="btn btn-primary">@eudocerrado</a>
-        </div>
-     </div>
-     <div class="card" style="width: 18rem;">
-       <div class="card-body">
-         <h5 class="card-title"></h5>
-           <p class="card-text">Instagram blog.</p>
-              <a href="https://www.instagram.com/eudocerradonerd/" class="btn btn-primary">@eudocerrado</a>
-        </div>
-     </div>
+ <div class="card" style="width: 18rem;">
+   <div class="card-body">
+     <h5 class="card-title"></h5>
+       <p class="card-text">Instagram pessoal.</p>
+         <a href="https://www.instagram.com/eudocerrado/" class="btn btn-primary">@eudocerrado</a>
+   </div>
+ </div>
+ <div class="card" style="width: 18rem;">
+   <div class="card-body">
+     <h5 class="card-title"></h5>
+       <p class="card-text">Instagram blog.</p>
+        <a href="https://www.instagram.com/eudocerradonerd/" class="btn btn-primary">@eudocerrado</a>
+   </div>
+ </div>
   
   
   </body>
