@@ -36,7 +36,7 @@
    <div class="card-body">
      <h5 class="card-title"></h5>
        <p class="card-text">Instagram blog.</p>
-        <a href="https://www.instagram.com/eudocerradonerd/" class="btn btn-primary">@eudocerrado</a>
+        <a href="https://www.instagram.com/eudocerradonerd/" class="btn btn-primary">@eudocerradonerd</a>
    </div>
  </div>
   
