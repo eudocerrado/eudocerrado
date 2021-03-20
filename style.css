@@ -2,15 +2,11 @@ body {
     background: #000000b8;
 }
 
-
 .page-header {
     color: #fff;
     text-align: center;
     background-color: #000000b8;
-    background-image: linear-gradient(
-120deg
-, #ffca03, #b90bce);
-
+    background-image: linear-gradient(120deg, #ffca03, #b90bce);
 }
 
 
