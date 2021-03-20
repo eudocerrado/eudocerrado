@@ -25,16 +25,15 @@
  <body>  
   
   
-
   
-  
-  </body>
+</body>
 
 
-  <footer class="site-footer">
+
+<footer class="site-footer">
    
    
-  </footer>
+</footer>
     
 
     
