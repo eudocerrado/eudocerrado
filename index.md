@@ -26,22 +26,13 @@
   
   
   
-  <div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title"></h5>
-    <p class="card-text">Meu Instagram pessoal.</p>
-    <a href="https://www.instagram.com/eudocerrado/" class="btn btn-primary">@eudocerrado</a>
-  </div>
-</div>
-  
-  
-  </body>
+ </body>
 
 
-  <footer class="site-footer">
+<footer class="site-footer">
    
    
-  </footer>
+</footer>
     
 
     
