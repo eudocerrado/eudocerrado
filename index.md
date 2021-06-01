@@ -33,7 +33,7 @@
         <h5 class="card-title">React</h5>
         <h6 class="card-subtitle mb-2 text-muted">Projeto Jogo da Velha no React</h6>
         <p class="card-text">Este projeto foi feito seguindo o tutorial da página reactjs.org.</p>
-        <a href="https://codepen.io/eudocerrado/pen/BaWJoKm?editors=1000" class="btn btn-warning">veja aqui =)</a>
+        <a href="https://codepen.io/eudocerrado/pen/BaWJoKm?editors=1000" class="btn btn-warning" target="_blank">veja aqui =)</a>
      </div>
    </div>
         
