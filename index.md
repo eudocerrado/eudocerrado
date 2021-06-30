@@ -50,12 +50,9 @@
   <div class="container">
   <div class="row">
     <div class="col">
-        <a href="https://www.instagram.com/eudocerrado/" class="btn btn-outline-light"><i class="fab fa-instagram"></i></a>
-     
-        <a href="https://www.linkedin.com/in/eudocerrado/" class="btn btn-outline-light"><i class="fab fa-linkedin-in"></i></a>
-    
-        <a href="https://www.youtube.com/eudocerrado" class="btn btn-outline-light"><i class="fab fa-youtube"></i></a>
-      </button>
+        <a href="https://www.instagram.com/eudocerrado/" class="btn btn-outline-light" target="_blank"><i class="fab fa-instagram"></i></a>     
+        <a href="https://www.linkedin.com/in/eudocerrado/" class="btn btn-outline-light" target="_blank"><i class="fab fa-linkedin-in"></i></a>    
+        <a href="https://www.youtube.com/eudocerrado" class="btn btn-outline-light" target="_blank"><i class="fab fa-youtube"></i></a>      
     </div>
   </div>
 </div>
