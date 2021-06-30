@@ -49,9 +49,10 @@
    
   <div class="container">
   <div class="row">
-    <div class="col"><button type="button" class="btn btn-outline-secondary"><i class="fab fa-instagram-square"></i></button></div>
-    <div class="col"><button type="button" class="btn btn-outline-secondary"><i class="fab fa-linkedin"></i></button></div>
-    <div class="col"><button type="button" class="btn btn-outline-secondary"><i class="fab fa-youtube-square"></i></button></div>
+    <div class="col">
+      <button type="button" class="btn btn-outline-light"><i class="fab fa-instagram-square"></i></button>
+      <button type="button" class="btn btn-outline-light"><i class="fab fa-linkedin"></i></button>
+      <button type="button" class="btn btn-outline-light"><i class="fab fa-youtube-square"></i></button></div>
   </div>
 </div>
    
