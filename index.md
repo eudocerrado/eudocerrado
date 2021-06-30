@@ -50,9 +50,16 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <button type="button" class="btn btn-outline-light"><i class="fab fa-instagram-square"></i></button>
-      <button type="button" class="btn btn-outline-light"><i class="fab fa-linkedin"></i></button>
-      <button type="button" class="btn btn-outline-light"><i class="fab fa-youtube-square"></i></button></div>
+      <button type="button" class="btn btn-outline-light"><i class="fab fa-instagram"></i>
+        <a href="url">https://www.instagram.com/eudocerrado/</a>
+      </button>
+      <button type="button" class="btn btn-outline-light"><i class="fab fa-linkedin-in"></i>
+        <a href="url">https://www.linkedin.com/in/eudocerrado/</a>
+      </button>
+      <button type="button" class="btn btn-outline-light"><i class="fab fa-youtube"></i>
+        <a href="url">https://www.youtube.com/eudocerrado</a>
+      </button>
+    </div>
   </div>
 </div>
    
