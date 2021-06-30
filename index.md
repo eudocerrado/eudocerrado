@@ -50,14 +50,11 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <button type="button" class="btn btn-outline-light"><i class="fab fa-instagram"></i>
-        <a href="https://www.instagram.com/eudocerrado/"></a>
-      </button>
-      <button type="button" class="btn btn-outline-light"><i class="fab fa-linkedin-in"></i>
-        <a href="https://www.linkedin.com/in/eudocerrado/"></a>
-      </button>
-      <button type="button" class="btn btn-outline-light"><i class="fab fa-youtube"></i>
-        <a href="https://www.youtube.com/eudocerrado"></a>
+        <a href="https://www.instagram.com/eudocerrado/" class="btn btn-outline-light"><i class="fab fa-instagram"></i></a>
+     
+        <a href="https://www.linkedin.com/in/eudocerrado/" class="btn btn-outline-light"><i class="fab fa-linkedin-in"></i></a>
+    
+        <a href="https://www.youtube.com/eudocerrado" class="btn btn-outline-light"><i class="fab fa-youtube"></i></a>
       </button>
     </div>
   </div>
