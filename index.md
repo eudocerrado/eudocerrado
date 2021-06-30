@@ -47,7 +47,7 @@
 
 <footer class="site-footer">
    
-  <div class="position-sticky bottom-0 start-50 translate-middle-x">
+  <div class="position-relative bottom-0 start-50 translate-middle-x">
     <div class="container">
       <div class="row">
         <div class="col">
