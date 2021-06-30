@@ -47,7 +47,7 @@
 
 <footer class="site-footer">
    
-  <div class="position-absolute top-50 start-50 translate-middle"></div>
+  <div class="position-absolute top-50 start-50 translate-middle">
     <div class="container">
       <div class="row">
         <div class="col">
